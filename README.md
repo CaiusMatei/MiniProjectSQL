@@ -45,7 +45,7 @@ To install and run the application, follow the steps below:
 
    Contains methods for creating a user, a project, retrieving a user or project by name, and logging the amount of time a person spent working on a project.
 
-   Entity models used in the program are housed in the subdirectory called "Models." 
+   Entity models used in the program are housed in the subdirectory called "SQLModels." 
    UserModel.cs, ProjectModel.cs, and ProjectPersonModel.cs are all included.
 
    A folder called "DataAccess" houses the database structure.
