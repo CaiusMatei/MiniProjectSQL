@@ -48,6 +48,6 @@ To install and run the application, follow the steps below:
    Entity models used in the program are housed in the subdirectory called "Models." 
    UserModel.cs, ProjectModel.cs, and ProjectPersonModel.cs are all included.
 
-   A folder called "Data" houses the database structure.
+   A folder called "DataAccess" houses the database structure.
 
 
