@@ -38,6 +38,7 @@ To install and run the application, follow the steps below:
 ## 💻 Code Structure
 
    The code is structured in the following way:
+   
    The primary entry point for the application is Program.cs. contains the primary menu structure as well as tools for adding people, projects, and recording time      worked.
 
    PostgresqlConnection.cs is a static class that uses Dapper and Npgsql to manage all database interactions. 
